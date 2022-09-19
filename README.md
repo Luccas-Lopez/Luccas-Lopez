@@ -1,7 +1,7 @@
 <b> Hey, Eu sou o Lucas Lopes </b>👋
 
 - 📚 Eu atualmente estou procurando uma vaga 👀, Afinidade com Front-End
-- 💻 Estudando Angular 
+- 💻 Estudando TypseScript
 
 ##
 
